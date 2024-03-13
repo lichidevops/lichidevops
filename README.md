@@ -2,8 +2,8 @@
 
 I'm a self-taught Web Developer currently looking for career change from education to web development.
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on full stack project built on Expressjs, React, SQL
+- 🌱 I’m currently learning mobile app development and DevOps
 - 👯 I’m looking to collaborate on backend / api development with talented developers
   
 <!--
