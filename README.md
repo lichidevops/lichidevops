@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a self-taught Web Developer currently looking for career change from education to web development.
+
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on backend / api development with talented developers
