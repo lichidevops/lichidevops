@@ -2,10 +2,10 @@
 
 I'm a self-taught Web Developer currently looking for career change from education to web development.
 
-- 🔭 I’m currently working on full stack project built on Expressjs, React, SQL
-- 🌱 I’m currently learning mobile app development and DevOps
-- 👯 I’m looking to collaborate on backend / api development with talented developers
-  
+- 🔭   I am presently engaged in a full-stack project utilizing Express.js, React, and SQL.
+- 🌱 I’m currently learning mobile app development, web securities and DevOps methodologies.
+- 👯 I am seeking collaboration opportunities in backend/API development, database management, mobile app development with skilled developers.
+
 <!--
 **lichidevops/lichidevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
